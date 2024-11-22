@@ -1,4 +1,4 @@
-/*
+
 let person = {
     F_name:"anas",
     l_name:"rayan",
@@ -40,7 +40,7 @@ console.log(cat.legs);
 cat["sound"]= "mew";
 console.log(cat["sound"]);
 
-*/
+
 
 
 
